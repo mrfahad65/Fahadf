@@ -38,6 +38,13 @@ return {
         max_devices = 11,
         SLOT = "2"
     },
+    ["GHOSTBABA"] = {
+        type = "DEMO",
+        expiry = "2026-09-20",
+        valid = true,
+        max_devices = 100,
+        SLOT = "2"
+    },
     ["SINGLE_USER"] = {
         type = "VIP",
         expiry = "2025-01-01",
