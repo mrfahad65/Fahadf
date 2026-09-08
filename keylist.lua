@@ -24,6 +24,13 @@ return {
         max_devices = 1,
         SLOT = "2"
     },
+    ["MUNEEBXFILES"] = {
+        type = "DEMO",
+        expiry = "2026-09-20",
+        valid = true,
+        max_devices = 2,
+        SLOT = "2"
+    },
     ["SINGLE_USER"] = {
         type = "VIP",
         expiry = "2025-01-01",
